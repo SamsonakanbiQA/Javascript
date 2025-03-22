@@ -1,2 +1,3 @@
 alert("hello world")
-alert("tester") 
+const name = "tester"
+alert ("name")
