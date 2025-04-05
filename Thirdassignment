@@ -5,7 +5,7 @@ for (i = 1; i <= 20; i++)
 let friends = ["Deborah", "Martha", "Dennis",]
     console.log(friends);
 
-    let friends = ["Deborah", "Martha", "Dennis", "Samson", "Temilade"]
-    let bestFriend = friends[1]
-    console.log("my best friend is: " + bestFriend);
+    //let friends = ["Deborah", "Martha", "Dennis", "Samson", "Temilade"]
+    //let bestfriend = friends[1]
+    //console.log("my best friend is: " + );
  
