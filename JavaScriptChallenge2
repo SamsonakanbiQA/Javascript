@@ -1,0 +1,3 @@
+const meters = value * meters[fromUnit];
+return meters / toMeters[toUnit];
+console.log(convertLenght(100, "centimeters", "meters"));

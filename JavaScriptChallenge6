@@ -1,0 +1,3 @@
+let gadgets = ["phone", "earpod", "ipad", "laptop"];
+gadgets.sort();
+console.log(gadgets);

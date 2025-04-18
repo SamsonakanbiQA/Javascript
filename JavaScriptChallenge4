@@ -1,0 +1,8 @@
+console.log("multiplication Table (1-10):");
+let header = "     ";
+for (let i = 1; i <= 10; i++)
+    header += i.toString( ). padStart(4) 
+    console.log(header);
+    console.log("-".repeat(44))
+   
+
